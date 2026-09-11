@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/beige_fondo"
+    tools:context=".Detalles"
+    tools:layout_editor_absoluteX="14dp"
+    tools:layout_editor_absoluteY="-142dp">
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textoCabecera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="25dp"
+                android:text="Detalles del pedido"
+                android:textColor="@color/beige_mas_oscuro"
+                android:textSize="34sp" />
+
+            <TextView
+                android:id="@+id/textoTipo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="TextView"
+                android:textSize="34sp" />
+
+            <ImageView
+                android:id="@+id/imagenCafe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/latte" />
+
+            <TextView
+                android:id="@+id/textoClienteNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Nombre cliente"
+                android:textColor="@color/beige_mas_oscuro"
+                android:textSize="34sp" />
+
+            <TextView
+                android:id="@+id/textoCafeina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Descafeinado"
+                android:textColor="@color/beige_mas_oscuro"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textoPosicion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Posición: 0"
+                android:textColor="@color/beige_mas_oscuro"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textoGramosAzucar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="5 gramos de azúcar"
+                android:textColor="@color/beige_mas_oscuro"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textoLargo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:text="TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView TextViewTextView "
+                android:textColor="@color/beige_mas_oscuro"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

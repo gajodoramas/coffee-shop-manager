@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="latte">
+        Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin
+        made with espresso and steamed milk. Variants include the chocolate-flavored mocha or replacing
+        the coffee with another beverage base such as masala chai (spiced Indian tea), mate, matcha,
+        turmeric or rooibos; alternatives to milk, such as soy milk or almond milk, are also used.
+        \n\n
+        The term comes from the Italian caffellatte[5] or caffè latte, from caffè e latte, literally
+        "coffee and milk"; in English orthography either or both words sometimes have an accent on the
+        final e (a hyperforeignism in the case of *latté, or to indicate it is pronounced, not the
+        more-common silent final e of English). In northern Europe and Scandinavia, the term café au
+        lait has traditionally been used for the combination of espresso and milk. In France, cafè
+        latte is from the original name of the beverage (caffè latte); a combination of espresso and
+        steamed milk equivalent to a "latte" is in French called grand crème and in German Milchkaffee.
+        \n\n
+        In Italy, caffè latte is almost always prepared at home, for breakfast only. This coffee beverage
+        is brewed with a stovetop moka pot and poured into a cup containing heated milk. Unlike the
+        "international" latte drink, generally, the milk in the Italian original is not foamed and
+        sugar is added by the drinker, if at all.
+        \n\n
+        Outside Italy, typically a caffè latte is prepared in a 240 mL (8 US fl oz) glass or cup
+        with one standard shot of espresso (either single, 30 mL or 1 US fl oz, or double, 60 mL or
+        2 US fl oz) and filled with steamed milk, with a layer of foamed milk approximately 12 mm
+        (1⁄2 in) thick on the top. In the USA, a latte is often heavily sweetened with 3% sugar
+        (or even more).[13] When wanting to order this beverage in Italy, one should ask for a latte
+        macchiato.
+        \n\n
+        A cup of latte, served at Merewether Beach, Australia
+        The beverage is related to a cappuccino, the difference being that a cappuccino consists
+        of espresso and steamed milk with a 20-millimetre-thick (0.79 in) layer of milk foam. A
+        variant found in Australia and New Zealand that is similar to the latte is the flat white
+        which is served in a smaller ceramic cup with warmed milk (without the layer of foam). In
+        the United States this beverage is sometimes referred to as a wet cappuccino.
+        \n\n
+                Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin
+        made with espresso and steamed milk. Variants include the chocolate-flavored mocha or replacing
+        the coffee with another beverage base such as masala chai (spiced Indian tea), mate, matcha,
+        turmeric or rooibos; alternatives to milk, such as soy milk or almond milk, are also used.
+        \n\n
+        The term comes from the Italian caffellatte[5] or caffè latte, from caffè e latte, literally
+        "coffee and milk"; in English orthography either or both words sometimes have an accent on the
+        final e (a hyperforeignism in the case of *latté, or to indicate it is pronounced, not the
+        more-common silent final e of English). In northern Europe and Scandinavia, the term café au
+        lait has traditionally been used for the combination of espresso and milk. In France, cafè
+        latte is from the original name of the beverage (caffè latte); a combination of espresso and
+        steamed milk equivalent to a "latte" is in French called grand crème and in German Milchkaffee.
+        \n\n
+        In Italy, caffè latte is almost always prepared at home, for breakfast only. This coffee beverage
+        is brewed with a stovetop moka pot and poured into a cup containing heated milk. Unlike the
+        "international" latte drink, generally, the milk in the Italian original is not foamed and
+        sugar is added by the drinker, if at all.
+        \n\n
+        Outside Italy, typically a caffè latte is prepared in a 240 mL (8 US fl oz) glass or cup
+        with one standard shot of espresso (either single, 30 mL or 1 US fl oz, or double, 60 mL or
+        2 US fl oz) and filled with steamed milk, with a layer of foamed milk approximately 12 mm
+        (1⁄2 in) thick on the top. In the USA, a latte is often heavily sweetened with 3% sugar
+        (or even more).[13] When wanting to order this beverage in Italy, one should ask for a latte
+        macchiato.
+        \n\n
+        A cup of latte, served at Merewether Beach, Australia
+        The beverage is related to a cappuccino, the difference being that a cappuccino consists
+        of espresso and steamed milk with a 20-millimetre-thick (0.79 in) layer of milk foam. A
+        variant found in Australia and New Zealand that is similar to the latte is the flat white
+        which is served in a smaller ceramic cup with warmed milk (without the layer of foam). In
+        the United States this beverage is sometimes referred to as a wet cappuccino.
+        \n\n
+    </string>
+    <string name="machiatto">
+        El café manchado o caffè macchiato [kafˈfɛ (m)makˈkjaːto] en italiano, también llamado
+        espresso macchiato, es un café cortado típico de Italia, consiste en un expreso con una
+        pequeña cantidad de leche caliente y espumada. En España se suele denominar café cortado.
+        \n\n
+        Macchiato significa en italiano ‘manchado’, y en el caso de caffè macchiato alude a la leche.
+        Tradicionalmente se elaboraba con un tiro de leche normalmente caliente, siendo la «mancha»
+        del café añadido. Sin embargo, más tarde macchiato pasó a aludir a la espuma del toque de
+        leche que se ponía encima para indicar que la bebida tenía un poco de leche sobre mucho café.
+        Esta era la forma en que los baristas señalaban a los camareros qué tazas contenían macchiato
+        en lugar de expreso, puesto que en muchos países ha habido muchas suposiciones y confusiones
+        sobre diferencias entre manchado y cortado y es que, el primer tipo se servía sobre tazas que
+        estaban «manchadas».
+        \n\n
+        Algunas cafeterías tienden actualmente a añadir leche vaporizada al expreso en cantidades
+        iguales, así como a mezclar la leche con el expreso en lugar de ponerla como espuma,
+        haciendo que sea más un café con leche o cortado en miniatura que otra cosa. A veces se
+        llama a esto piccolo latte.
+        \n\n
+        Otra variante de la bebida, el latte macchiato, ‘leche manchada’, consta de leche con solo
+        un poco de expreso en ella (siempre menos que en un café con leche). Sin embargo, en ciertas
+        recetas (que difieren de un lugar a otro), el latte macchiato no tiene gran diferencia con el
+        café con leche (caffé latte), que suele contener un tercio de expreso y dos de leche vaporizada.
+        \n\n
+        En sitios como en Andalucía, la costa sur de España, es normal que se pida al camarero "un
+        manchado" y con esto se entiende que el cliente quiere un Latte macchiato (leche manchada).
+        Sin embargo, es normal que al irse de la región los significados cambien.
+        \n\n
+        En Murcia, el "manchado", es un café bombón con muy poca leche condensada.
+        \n\n
+                El café manchado o caffè macchiato [kafˈfɛ (m)makˈkjaːto] en italiano, también llamado
+        espresso macchiato, es un café cortado típico de Italia, consiste en un expreso con una
+        pequeña cantidad de leche caliente y espumada. En España se suele denominar café cortado.
+        \n\n
+        Macchiato significa en italiano ‘manchado’, y en el caso de caffè macchiato alude a la leche.
+        Tradicionalmente se elaboraba con un tiro de leche normalmente caliente, siendo la «mancha»
+        del café añadido. Sin embargo, más tarde macchiato pasó a aludir a la espuma del toque de
+        leche que se ponía encima para indicar que la bebida tenía un poco de leche sobre mucho café.
+        Esta era la forma en que los baristas señalaban a los camareros qué tazas contenían macchiato
+        en lugar de expreso, puesto que en muchos países ha habido muchas suposiciones y confusiones
+        sobre diferencias entre manchado y cortado y es que, el primer tipo se servía sobre tazas que
+        estaban «manchadas».
+        \n\n
+        Algunas cafeterías tienden actualmente a añadir leche vaporizada al expreso en cantidades
+        iguales, así como a mezclar la leche con el expreso en lugar de ponerla como espuma,
+        haciendo que sea más un café con leche o cortado en miniatura que otra cosa. A veces se
+        llama a esto piccolo latte.
+        \n\n
+        Otra variante de la bebida, el latte macchiato, ‘leche manchada’, consta de leche con solo
+        un poco de expreso en ella (siempre menos que en un café con leche). Sin embargo, en ciertas
+        recetas (que difieren de un lugar a otro), el latte macchiato no tiene gran diferencia con el
+        café con leche (caffé latte), que suele contener un tercio de expreso y dos de leche vaporizada.
+        \n\n
+        En sitios como en Andalucía, la costa sur de España, es normal que se pida al camarero "un
+        manchado" y con esto se entiende que el cliente quiere un Latte macchiato (leche manchada).
+        Sin embargo, es normal que al irse de la región los significados cambien.
+        \n\n
+        En Murcia, el "manchado", es un café bombón con muy poca leche condensada.
+        \n\n
+    </string>
+    <string name="espresso">
+        El café expreso (también denominado café espresso, café exprés, café express o café solo)
+        es una forma de preparación de café originada en Italia. Debe su término a la obtención
+        de esta bebida a través de una cafetera expreso. Se caracteriza por su rápida preparación
+        a una alta presión y por un sabor y textura más concentrados.
+        \n\n
+        Para la obtención de un café expreso se hace pasar agua caliente a alta presión (entre 9 y
+        15 bares, dependiendo de la máquina) a través de café molido ubicado en una cazoleta perforada
+        o "filtro". Para que el agua extraiga todo el sabor y el aroma de manera pareja y uniforme
+        al atravesar el café en tan corto tiempo, es necesario que el molido de este sea muy fino y
+        además se encuentre compactado y nivelado dentro del filtro, lo cual se logra con un pisón
+        o tamper.
+        \n\n
+        Técnicamente, el proceso de obtención de café expreso entra dentro de la operación de lixiviación.
+        \n\n
+        No existe una norma universal para la preparación del café expreso, no obstante, hay varias
+        definiciones publicadas que intentan limitar la cantidad y el tipo de café molido utilizado,
+        la temperatura y la presión del agua, y la velocidad de extracción. Según el "Istituto
+        Nazionale Espresso Italiano", los parámetros técnicos señalados para la elaboración de
+        un expreso italiano certificado son los siguientes:
+        \n\n
+        El café expreso (también denominado café espresso, café exprés, café express o café solo)
+        es una forma de preparación de café originada en Italia. Debe su término a la obtención
+        de esta bebida a través de una cafetera expreso. Se caracteriza por su rápida preparación
+        a una alta presión y por un sabor y textura más concentrados.
+        \n\n
+        Para la obtención de un café expreso se hace pasar agua caliente a alta presión (entre 9 y
+        15 bares, dependiendo de la máquina) a través de café molido ubicado en una cazoleta perforada
+        o "filtro". Para que el agua extraiga todo el sabor y el aroma de manera pareja y uniforme
+        al atravesar el café en tan corto tiempo, es necesario que el molido de este sea muy fino y
+        además se encuentre compactado y nivelado dentro del filtro, lo cual se logra con un pisón
+        o tamper.
+        \n\n
+        Técnicamente, el proceso de obtención de café expreso entra dentro de la operación de lixiviación.
+        \n\n
+        No existe una norma universal para la preparación del café expreso, no obstante, hay varias
+        definiciones publicadas que intentan limitar la cantidad y el tipo de café molido utilizado,
+        la temperatura y la presión del agua, y la velocidad de extracción. Según el "Istituto
+        Nazionale Espresso Italiano", los parámetros técnicos señalados para la elaboración de
+        un expreso italiano certificado son los siguientes:
+        \n\n
+    </string>
+</resources>
